@@ -32,4 +32,4 @@ pip install pygame
 
 ## Credits
 
-Developed by [Neel Prasad]
+Developed by Neel Prasad
