@@ -27,6 +27,9 @@ pip install pygame
 3. Clone or download the game files from this repository.
 4. Run the `main.py` file to start the game.
 
+## Screenshots
+![Gameplay Screenshot](/images/image.png)
+
 ## Credits
 
 Developed by [Neel Prasad]
